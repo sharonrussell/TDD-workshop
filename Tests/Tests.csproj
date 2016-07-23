@@ -54,6 +54,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StringCalculatorTests.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Code\Code.csproj">
+      <Project>{C64278EB-CF70-4365-8BC0-6BD3C6DF1E21}</Project>
+      <Name>Code</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">
       <ItemGroup>
