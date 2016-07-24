@@ -18,3 +18,10 @@ Following the rules of tennis, I want to be able to print out the score of a gam
 
 * If either of the scores are 0, that score is "Love" (0-15 = "Love-15")
 * Both scores equaling 40 should return "Deuce" (40-40 = "Deuce")
+
+# Final exercise: RomanNumeralsStringCalculator
+
+I want to be able to add together two strings in the form of roman numerals and return their sum as a roman numeral.
+
+* You cannot change the roman numerals to numbers
+* Go as far as adding i plus iii (i + i, i + ii, i + iii)
