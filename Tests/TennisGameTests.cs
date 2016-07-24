@@ -4,9 +4,10 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace Tests
 {
     [TestClass]
-    public class StringCalculatorTests
+    public class TennisGameTests
     {
+        
     }
 
-    // write tests here for the StringCalculator
+    // add the tests here to test that our TennisGame is working
 }
