@@ -53,6 +53,7 @@
     <Compile Include="ExampleTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StringCalculatorTests.cs" />
+    <Compile Include="TennisGameTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Code\Code.csproj">
